@@ -27,7 +27,7 @@ SEC-SNIFFER PRO is a powerful Static Application Security Testing (SAST) tool de
    git clone [https://github.com/ShahShaily/SEC-SNIFFER-PRO.git](https://github.com/ShahShaily/SEC-SNIFFER-PRO.git)
 2. **Launch the Application:**
    python sensitive_finder.py
-3. **Operation:
+3. **Operation**:
    Click the 'Browse' button to select your target project folder.
    Click 'Start Monitor' to begin the security audit.
    The tool will run in the background. If a secret is saved in any file, you will hear a Beep Alert instantly!
