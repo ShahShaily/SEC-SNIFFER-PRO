@@ -46,7 +46,7 @@ Standard scanners often generate thousands of results, 90% of which are "False P
 * **Clone the Repository**: git clone https://github.com/ShahShaily/SEC-SNIFFER-PRO.git
 * **Install Requirements**: pip install -r requirements.txt
 * **Launch the Application**: python sensitive_finder.py
-Operation:
+* **Operation**:
 * Click the 'Browse' button to select your target project folder.
 * Click 'Start Monitor' to begin the security audit.
 * The tool will run in the background. If a secret is saved in any file, you will hear an Instant Beep Alert and see a visual warning!
