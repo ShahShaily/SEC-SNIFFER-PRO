@@ -47,7 +47,7 @@ Standard scanners often generate thousands of results, 90% of which are "False P
 
 * **Option 1**: Desktop Mode (Graphical Interface)
 * **Clone the Repository**: git clone https://github.com/ShahShaily/SEC-SNIFFER-PRO.git
-* **Install Requirements**: pip install -r requirements.txt
+* **Install Requirements**: Run this command to install the Validation Engine: python -m pip install requests (Optional) pip install -r requirements.txt
 * **Launch the Application**: python sensitive_finder.py
 * **Operation**:
 * Click the 'Browse' button to select your target project folder.
