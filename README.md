@@ -6,6 +6,7 @@ Unlike traditional scanners that flood you with junk findings, SEC-SNIFFER PRO f
 
 * **🚀 Why Choose SEC-SNIFFER PRO?**
 Standard scanners often generate thousands of results, 90% of which are "False Positives" (junk data). SEC-SNIFFER PRO is engineered for high-fidelity detection—delivering fewer alerts, but ensuring every result is a verified True Positive.
+* **Security Philosophy "Better to flag 10 safe things than to miss 1 dangerous secret."**
 
 ## 🌟 Key Features
 
